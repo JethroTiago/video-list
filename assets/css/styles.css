@@ -1,7 +1,21 @@
-* {
+*,
+*::before,
+*::after {
+    /* COLORS */
+    --dark-blue: #154580;
+    --white: #ffffff;
     box-sizing: border-box;
 }
 
 body {
+    background-color: var(--dark-blue);
+    box-sizing: border-box;
+    color: var(--white);
     font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    height: 100vh;
+    overflow: auto;
+    position: relative;
+    text-align: center;
+    width: 100%;
 }
