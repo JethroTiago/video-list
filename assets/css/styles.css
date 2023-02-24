@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: var(--dark-blue);
+    background-image: linear-gradient(to bottom, var(--dark-blue), var(--white));
     box-sizing: border-box;
     color: var(--white);
     font-family: 'Roboto', sans-serif;
