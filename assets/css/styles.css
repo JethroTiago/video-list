@@ -19,3 +19,15 @@ body {
     text-align: center;
     width: 100%;
 }
+
+/* HEADER STYLES */
+
+.heading {
+    background-color: var(--white);
+    position: fixed;
+    top: 0;
+    height: 80px;
+    width: 100%;
+    padding: 0 25px;
+    z-index: 2;
+}
