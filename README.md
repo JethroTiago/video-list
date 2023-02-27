@@ -10,7 +10,7 @@ Aplicação que permite o usuário adicionar links do youtube para criar sua pla
 
 ## Project View / Visualização do projeto:
 
--- soon --
+![Captura de tela 2023-02-27 124234](https://user-images.githubusercontent.com/103612874/221612206-849617c3-ba47-4fe3-ae36-af5837467d7c.jpg)
 
 ## How it works / Como Funciona:
 
