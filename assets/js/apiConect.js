@@ -1,6 +1,10 @@
 async function videoList() {
     const conection = await fetch("http://localhost:3000/videos");
-    console.log(conection);
+    const convertedConection = await conection.json();
+    
+    return convertedConection;
 };
 
-videoList();
+export const apiConect = {
+    videoList
+};
