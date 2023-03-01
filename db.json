@@ -2,87 +2,87 @@
     "videos": [
       {
         "id": 1,
-        "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
-        "descricao": "3 mil visualizações",
-        "url": "https://www.youtube.com/embed/y8FeZMv37WU",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "AMANTIKIR - CAMPOS DO JORDÃO - Beira da Aventura - Episódio 02",
+        "descricao": "314 visualizações",
+        "url": "https://youtu.be/DnxNKANULuU",
+        "imagem": "https://img.youtube.com/vi/DnxNKANULuU/maxresdefault.jpg"
       },
       {
         "id": 2,
-        "titulo": "Desmistificando mobile - Linguagens e Frameworks",
-        "descricao": "1,5 mil visualizações",
-        "url": "https://www.youtube.com/embed/fmu1LQvZhms",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "CAMPOS DO JORDÃO - Beira da Aventura - Episódio 01",
+        "descricao": "225 visualizações",
+        "url": "https://www.youtube.com/watch?v=mPrsx_liWoA",
+        "imagem": "https://img.youtube.com/vi/mPrsx_liWoA/maxresdefault.jpg"
       },
       {
         "id": 3,
-        "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
-        "descricao": "30 mil visualizações",
-        "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "TOUR ENTRE AS ILHAS - Beira da Aventura em Salvador",
+        "descricao": "306 visualizações",
+        "url": "https://www.youtube.com/watch?v=WEvs7YsxnlY",
+        "imagem": "https://img.youtube.com/vi/WEvs7YsxnlY/maxresdefault.jpg"
       },
       {
         "id": 4,
-        "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
-        "descricao": "2,5 mil visualizações",
-        "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "CAMINHO DO VINHO e KAWIARNIA CAFÉ COLONIAL",
+        "descricao": "731 visualizações",
+        "url": "https://www.youtube.com/watch?v=VnMKwj57Jaw",
+        "imagem": "https://img.youtube.com/vi/VnMKwj57Jaw/maxresdefault.jpg"
       },
       {
         "id": 5,
-        "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
-        "descricao": "1,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "BETO CARRERO WORLD - Beira da Aventura",
+        "descricao": "354 visualizações",
+        "url": "https://www.youtube.com/watch?v=6FvOxxc-MZA",
+        "imagem": "https://img.youtube.com/vi/6FvOxxc-MZA/maxresdefault.jpg"
       },
       {
         "id": 6,
-        "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
-        "descricao": "1,6 mil visualizações",
-        "url": "https://www.youtube.com/embed/vf9P_PycgRw",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "BODEGA DO SERTÃO - Beira da Aventura em ALAGOAS",
+        "descricao": "3,9 mil visualizações",
+        "url": "https://www.youtube.com/watch?v=kVnKH42NR6Y",
+        "imagem": "https://img.youtube.com/vi/kVnKH42NR6Y/maxresdefault.jpg"
       },
       {
         "id": 7,
-        "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
-        "descricao": "3,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/Nts3P35mHzE",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "9 ILHAS - Beira da Aventura em ALAGOAS",
+        "descricao": "9,5 mil visualizações",
+        "url": "https://www.youtube.com/watch?v=JrwjRZ-CXq4",
+        "imagem": "https://img.youtube.com/vi/JrwjRZ-CXq4/maxresdefault.jpg"
       },
       {
         "id": 8,
-        "titulo": "baNaNa | Memes do JavaScript #2",
-        "descricao": "1,2 mil visualizações",
-        "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
-        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+        "titulo": "LAGO AZUL - Beira da Aventura em ALAGOAS",
+        "descricao": "1,3 mil visualizações",
+        "url": "https://www.youtube.com/watch?v=1eyKd2AbczY",
+        "imagem": "https://img.youtube.com/vi/1eyKd2AbczY/maxresdefault.jpg"
       },
       {
-        "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
-        "descricao": "1 mil visualizações",
-        "url": "https://www.youtube.com/embed/z43rcfjXOxU",
-        "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-        "id": 9
+        "id": 9,
+        "titulo": "PRAIA DO GUNGA - Beira da Aventura em ALAGOAS",
+        "descricao": "810 visualizações",
+        "url": "https://www.youtube.com/watch?v=XNSl_v0mZO8",
+        "imagem": "https://img.youtube.com/vi/XNSl_v0mZO8/maxresdefault.jpg"
       },
       {
-        "titulo": "Educação coorporativa",
-        "descricao": "9 mil visualizações",
-        "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-        "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-        "id": 10
+        "id": 10,
+        "titulo": "ESTRADA DA GRACIOSA e MORRETES - Beira da Aventura no PARANÁ",
+        "descricao": "320 visualizações",
+        "url": "https://www.youtube.com/watch?v=f0cm9y1XrVc",
+        "imagem": "https://img.youtube.com/vi/f0cm9y1XrVc/maxresdefault.jpg"
       },
       {
-        "titulo": "Educação coorporativa",
-        "descricao": "4 mil visualizações",
-        "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-        "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-        "id": 11
+        "id": 11,
+        "titulo": "PASSEIO TREM MARIA FUMAÇA - Beira da Aventura no TREM DO VINHO",
+        "descricao": "809 visualizações",
+        "url": "https://www.youtube.com/watch?v=iShgBjCsyH8",
+        "imagem": "https://img.youtube.com/vi/iShgBjCsyH8/maxresdefault.jpg"
       },
       {
-        "titulo": "Educação coorporativa",
-        "descricao": "7 mil visualizações",
-        "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
-        "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
-        "id": 12
+        "id": 12,
+        "titulo": "BONDINHOS AÉREOS - PARQUES DA SERRA - Beira da Aventura em CANELA",
+        "descricao": "407 visualizações",
+        "url": "https://www.youtube.com/watch?v=U7Iqdym-5u4",
+        "imagem": "https://img.youtube.com/vi/U7Iqdym-5u4/maxresdefault.jpg"
       }
     ]
   }
