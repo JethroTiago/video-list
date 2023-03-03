@@ -24,3 +24,5 @@ async function videoList() {
     apiList.forEach(element => list.appendChild(
         buildCards(element.title, element.views, element.url, element.image)))
 };
+
+videoList();
