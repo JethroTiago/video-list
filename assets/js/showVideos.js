@@ -18,3 +18,7 @@ function buildCards() {
     `
     return video;
 };
+
+async function videoList() {
+    const list = await apiConect.videoList();
+};
