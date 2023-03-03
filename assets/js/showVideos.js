@@ -1,3 +1,5 @@
+import { apiConect } from "./apiConect.js";
+
 const list = document.querySelector("[data-list]");
 
 function buildCards() {
@@ -14,7 +16,5 @@ function buildCards() {
             <p>316 visualizações</p>
         </div>
     `
-
     return video;
-
-}
+};
