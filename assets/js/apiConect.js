@@ -13,13 +13,18 @@ async function createVideo(title, views, url, image) {
         },
         body: JSON.stringify({
             title: title,
-            views: views,
+            views: `${views} visualizações`,
             url: url,
             image: image
         })
     });
+
+    const convertedConection = await conection.json();
+
+    return convertedConection;
 }
 
 export const apiConect = {
-    videoList
+    videoList,
+    createVideo,
 };
