@@ -2,7 +2,7 @@
 *::before,
 *::after {
     /* COLORS */
-    --dark-blue: #154580;
+    --dark-blue: rgb(21, 69, 128);
     --white: #ffffff;
     box-sizing: border-box;
 }
