@@ -24,14 +24,30 @@
     </header>
 
     <main class="container">
+
         <form class="container__form">
             <h2 class="container__title">Send your video!</h2>
             <div class="form__area">
                 <label class="label__area" for="url">Link embed</label>
                 <input class="write__area" name="url" placeholder="For example: https://www.youtube.com/embed/iShgBjCsyH8" id="url" required />
             </div>
+
+            <div class="form__area">
+                <label class="label__area" for="title">Video Title</label>
+                <input name="title" class="write__area" placeholder="Enter the video's name" id="title" required />
+            </div>
+
+            <div class="form__area">
+                <label class="label__area" for="image">Profile Picture</label>
+                <input name="image" class="write__area" placeholder="Enter image url" id="image"/>
+            </div>
+            
+            <input class="form__button" type="submit" />
+
         </form>
+
     </main>
 
 </body>
+
 </html>
