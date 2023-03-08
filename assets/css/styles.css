@@ -35,10 +35,33 @@ body {
     z-index: 2;
 }
 
+.logo {
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    padding: 15px 65px;
+    cursor: pointer;
+}
+
 .add__videos {
     background-image: url(../img/add-button.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     padding: 15px;
+}
+
+/* VIDEO STYLES */
+
+.videos__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    z-index: 1;
+    padding: 153px 20px 10px 20px;
+}
+
+.videos__item {
+    flex-grow: 1;
+    height: 303px;
+    width: 300px;
 }
