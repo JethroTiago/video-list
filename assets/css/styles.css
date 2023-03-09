@@ -50,13 +50,15 @@ body {
 }
 
 .search__input {
-    width: 260px;
+    width: 30rem;
     height: 32px;
     border: 1px solid rgb(211, 211, 211);
     font-size: 16px;
     padding: 3px 8px;
     border: 1px solid rgb(211, 211, 211);
-    color: var(--azul-escuro);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    color: var(--dark-blue);
 }
 
 .search__button {
@@ -66,6 +68,8 @@ body {
     border: 1px solid rgb(211, 211, 211);
     background-color: #F9F9F9;
     border-left: none;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
     padding: 15px 15px;
     cursor: pointer;
 }
