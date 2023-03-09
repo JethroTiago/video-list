@@ -9,6 +9,8 @@ async function createVideo(event) {
     const views = Math.floor(Math.random() * 10).toString();
 
     await apiConect.createVideo(title, views, url, image)
+
+    window.location.href = "./assets/pages/send-completed.html";
 }
 
 form.addEventListener("submit", event => createVideo(event));
