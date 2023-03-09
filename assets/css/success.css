@@ -1,0 +1,16 @@
+.mensage {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.mensage__title {
+    color: var(--dark-blue);
+    font-weight: bold;
+    font-size: 21px;
+}
+
+.mensage__image {
+    width: 30%;
+}
