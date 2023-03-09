@@ -6,11 +6,12 @@
 }
 
 .mensage__title {
-    color: var(--dark-blue);
+    color: var(--white);
     font-weight: bold;
-    font-size: 21px;
+    font-size: 28px;
+    text-transform: uppercase;
 }
 
 .mensage__image {
-    width: 30%;
+    width: 40%;
 }
