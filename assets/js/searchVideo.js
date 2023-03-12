@@ -6,7 +6,7 @@ async function searchVideos(e) {
     const searchData = document.querySelector("[data-search]").value;
     const search = await apiConect.searchVideo(searchData);
 
-    console.log(search);
+    const list = document.querySelector("[data-list]");
 }
 
 const searchButton = document.querySelector("[data-search-button]");
