@@ -2,7 +2,7 @@ import { apiConect } from "./apiConect.js";
 
 const list = document.querySelector("[data-list]");
 
-function buildCards(title, views, url, image) {
+export default function buildCards(title, views, url, image) {
     const video = document.createElement("li");
     video.className = "videos__item";
     video.innerHTML = `
