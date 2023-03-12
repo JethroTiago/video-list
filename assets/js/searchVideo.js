@@ -7,6 +7,11 @@ async function searchVideos(event) {
     const search = await apiConect.searchVideo(searchData);
 
     const list = document.querySelector("[data-list]");
+
+    while (list.firstChild) {
+        list.removeChild(list.firstChild);
+    }
+
     search.forEach(element => list.appendChild(
         buildCards(element.title, element.views, element.url, element.image)));
 }
