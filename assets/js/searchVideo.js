@@ -1,4 +1,5 @@
 import { apiConect } from "./apiConect.js";
+import buildCards from "./showVideos.js";
 
 async function searchVideos(e) {
     e.preventDefault();
