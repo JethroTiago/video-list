@@ -18,6 +18,9 @@ async function createVideo(title, views, url, image) {
             image: image
         })
     });
+    if (!conection.ok) {
+        throw new Error("Unable to upload video");
+    }
 
     const convertedConection = await conection.json();
 
