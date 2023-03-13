@@ -1,4 +1,4 @@
-﻿# Video List
+# Video List
 
 Application that allows the user to add YouTube links to create their personal video playlist. Created with <strong>JavaScript</strong>.
 
@@ -6,11 +6,11 @@ Aplicação que permite o usuário adicionar links do youtube para criar sua pla
 
 ### Deploy:
 
--- soon --
+https://video-list-kappa.vercel.app/
 
 ## Project View / Visualização do projeto:
 
--- soon --
+![Captura de tela 2023-03-13 103436](https://user-images.githubusercontent.com/103612874/224717390-4620ab74-3fd6-4386-acc2-a3eba3d14218.jpg)
 
 ## How it works / Como Funciona:
 
