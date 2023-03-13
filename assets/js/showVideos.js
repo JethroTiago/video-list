@@ -20,9 +20,13 @@ export default function buildCards(title, views, url, image) {
 };
 
 async function videoList() {
+    try {
     const apiList = await apiConect.videoList();
     apiList.forEach(element => list.appendChild(
         buildCards(element.title, element.views, element.url, element.image)))
+    } catch {
+        list.innerHTML = `<h2 class="mensage__title">Video list not loaded</h2>`
+    }
 };
 
 videoList();
