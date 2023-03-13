@@ -10,10 +10,10 @@
 body {
     background-image: linear-gradient(to bottom, var(--dark-blue), var(--white));
     box-sizing: border-box;
+    background-size: contain;
     color: var(--white);
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
-    height: 100vh;
     overflow: auto;
     position: relative;
     text-align: center;
