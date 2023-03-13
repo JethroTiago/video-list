@@ -128,3 +128,21 @@ body {
     height: 2em;
     border-radius: 100%;
 }
+
+@media(min-width: 834px) {
+
+    body {
+        height: 100vh;
+    }
+    
+    .videos__container {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+@media(min-width: 1440px) {
+    .videos__item {
+        width: 288px;
+    }
+}
