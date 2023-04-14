@@ -1,6 +1,6 @@
 # Video List
 
-Application that allows the user to add a YouTube links to create their personal video playlist. Created with <strong>JavaScript</strong>.
+A Application that allows the user to add a YouTube links to create their personal video playlist. Created with <strong>JavaScript</strong>.
 
 Aplicação que permite o usuário adicionar links do youtube para criar sua playlist pessoal de vídeos. Criado com <strong>JavaScript</strong>.
 
